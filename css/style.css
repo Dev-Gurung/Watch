@@ -1,0 +1,15 @@
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#clock{
+    font-size: 100px; 
+    width: 600px; 
+    margin: auto; 
+    text-align: center; 
+    border: 5px solid black; 
+    border-radius: 50px;
+    margin-top: 250px;
+}
